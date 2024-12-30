@@ -4,9 +4,8 @@
 ---
 ## 2. MODELS USED
 <div>
-  <p style="color:orange; font-size:15px;">  
-    ResNet<br>  
-  </p>
+  <p style="color: orange;">This text is orange.</p>  
+
   <img src="https://github.com/user-attachments/assets/af17feaf-e505-4fbd-b564-95af69501929" style="display:inline-block" />
 </div>
 
