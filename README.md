@@ -4,7 +4,7 @@
 ---
 ## 2. MODELS USED
 <div>
-  <p style="color:Orange">ResNet<br>
+  <p style="color:orange;font-size:30">ResNet<br>
   </p>
   <img src="https://github.com/user-attachments/assets/af17feaf-e505-4fbd-b564-95af69501929" style="display:inline-block" />
 </div>
