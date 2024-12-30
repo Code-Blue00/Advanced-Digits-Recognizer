@@ -4,9 +4,10 @@
 ---
 ## 2. MODELS USED
 <div>
-  🚀 **Launch Your Project!** 🌟
-
+  ResNet <br>
   <img src="https://github.com/user-attachments/assets/af17feaf-e505-4fbd-b564-95af69501929" style="display:inline-block" />
+  <img src="https://github.com/user-attachments/assets/cf6e526c-0c90-453d-9b67-9bc7d12b313b" style="display:inline-block" />
 </div>
 
 
+![densenet_struct](https://github.com/user-attachments/assets/cf6e526c-0c90-453d-9b67-9bc7d12b313b)
