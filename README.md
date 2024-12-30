@@ -4,10 +4,9 @@
 ---
 ## 2. MODELS USED
 
---ResNet
+<div>
+  <p style="color:Orange;font_size:30">ResNet <br>
+  </p>
+</div>
 
 
-
-
-
-![renset_struct (1)](https://github.com/user-attachments/assets/af17feaf-e505-4fbd-b564-95af69501929)
