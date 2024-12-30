@@ -6,6 +6,6 @@
 <div>
   ResNet <br>
   <img src="https://github.com/user-attachments/assets/af17feaf-e505-4fbd-b564-95af69501929" style="display:inline-block" />
-  <img src="https://github.com/user-attachments/assets/d7eb44b2-963d-49eb-8e4d-99d2baeb256f" style="display:inline-block" />
+  <img src="https://github.com/user-attachments/assets/be54a230-d166-4ccd-a76c-be1768c924b4" style="display:inline-block" />
 
 </div>
